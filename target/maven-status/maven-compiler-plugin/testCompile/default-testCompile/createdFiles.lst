@@ -1,0 +1,4 @@
+com/meridian/reliability/SelfTest.class
+com/meridian/reliability/DashboardTest.class
+com/meridian/reliability/DashboardTest$FakeSmtp.class
+com/meridian/reliability/DashboardTest$Recorder.class
